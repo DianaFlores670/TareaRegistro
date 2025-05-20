@@ -24,7 +24,7 @@ Este proyecto consiste en el desarrollo de un sistema de registro universitario 
 ### 1. Clonar el repositorio
 
 bash
-git clone https://github.com/DianaFlores670/TareaRegistro.git
+git clone https://github.com/DianaFlores670/TareaRegistro
 cd Practica-2
  
  ## 2. Contruccion y ejecucion del proyecto
@@ -171,7 +171,7 @@ El archivo univesidad.sql incluido en el repositorio contiene datos de prueba pa
     
 -   Inscripciones activas
 ## 10. Enlace del proyecto en github
-https://github.com/JuanCamachoFernandez/Practica-2
+https://github.com/DianaFlores670/TareaRegistro.git
 
 ## 11. Estado del Proyecto
 ✔ Módulos funcionales implementados  
